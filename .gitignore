@@ -1,0 +1,21 @@
+# Java
+*.class
+
+# Build files
+target/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Local MySQL data
+.tools/mysql-data/
